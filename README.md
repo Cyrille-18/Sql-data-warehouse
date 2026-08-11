@@ -1,6 +1,6 @@
 # SQL Data Warehouse
 
-Build a modern data warehouse with **SQL Server**, covering ETL processes, data modeling, from raw source files to business-ready, analytics-friendly data.
+Building a modern data warehouse with **SQL Server**, covering ETL processes, data modeling, from raw source files to business-ready, analytics-friendly data.
 
 ## Table of Contents
 - Project Overview
@@ -66,5 +66,5 @@ Basic steps:
 
 Hi 👋 I'm Cyrille PIO, an MSc student in Artificial Intelligence & Big Data, building real-world projects to sharpen my skills and gain hands-on experience. Aiming for a career as a Data Engineer / Data Scientist, I enjoy turning raw data into reliable pipelines and actionable insights.
 
- [<a href="https://www.linkedin.com/in/yourprofile"><img src="data:image/svg+xml;utf8,<svg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'><rect%20width='24'%20height='24'%20rx='4'%20fill='%230077B5'/><text%20x='12'%20y='16'%20font-size='8'%20text-anchor='middle'%20fill='%23fff'%20font-family='Arial'>in</text></svg>" alt="LinkedIn" width="32"/></a>]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrillepio)
 
